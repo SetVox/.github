@@ -1,6 +1,9 @@
-<img width="400" height="225" alt="setvox" src="https://setvox-assets.onrender.com/setvox_logo_punane-transparent.png"/>
+<div align="center">
+  <img src="https://setvox-assets.onrender.com/setvox_logo_punane-transparent.png" alt="SetVox Logo" width="350">
+  <h1>Building the future of film set communication.</h1>
+</div>
 
-**Building the future of film set communication.**
+
 
 SetVox is a smart communication tool for film sets that turns live walkie-talkie chatter into a silent, searchable text feed. By bridging master radio networks with crew smartphones, we keep productions perfectly synced without forcing anyone to change their existing workflow.
 
@@ -19,3 +22,18 @@ We are a team of filmmakers and engineers based in Estonia, building the tool we
 * **LinkedIn:** [linkedin.com/company/setvox](https://linkedin.com/company/setvox)
 * **Instagram:** [@setvox.eu](https://instagram.com/setvox.eu)
 * **Email:** [info@setvox.eu](mailto:info@setvox.eu)
+
+<br>
+
+<div align="center">
+  <br>
+  <a href="https://www.startupincubator.ee/en/film-multimedia-accelerator/">
+    <img src="https://www.tehnopol.ee/wp-content/uploads/2021/01/TSI_logo_ENG_RGB.png" alt="Tehnopol Startup Incubator" height="60">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://idahub.ee/en/incubation-programmes/film-and-multimedia-accelerator/">
+    <img src="https://setvox-assets.onrender.com/veebi-02.png" alt="IDA HUB" height="55">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><img src="https://setvox-assets.onrender.com/Kaasrahastanud_EL_kaksiklogod_ENG_hor_color_RGB.png" alt="Funded by EU" height="70"></sub>
+</div>
