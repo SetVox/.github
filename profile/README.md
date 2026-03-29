@@ -11,11 +11,11 @@ SetVox is a smart communication tool for film sets that turns live walkie-talkie
 We are currently in active development. Because we handle sensitive, unreleased film production data, all of our core technology—including our local audio transcription engine, biometric identification models, and iOS clients—is kept in strictly private repositories. We process on-set audio 100% locally to guarantee absolute privacy for the productions we work with.
 
 ### The Team
-We are a team of filmmakers and engineers based in Estonia, building the tool we always wished we had on set.
-* **Andreas**
-* **Lennart**
-* **Kätleen**
-* **Gete**
+We are a team of filmmakers based in Estonia, building the tool we always wished we had on set.
+* **Andreas** – production sound mixer | sound engineer
+* **Lennart** – producer
+* **Kätleen** – production designer
+* **Gete** – production designer | graphic designer
 
 ### Connect With Us
 * **Website:** [setvox.eu](https://www.setvox.eu)
