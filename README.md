@@ -1,4 +1,4 @@
-<img width="800" height="450" alt="setvox" src="https://setvox-assets.onrender.com/setvox_logo_must-txt.png" />
+<img width="400" height="100" alt="setvox" src="setvox_logo_must-txt crop.png" />
 
 **Building the future of film set communication.**
 
