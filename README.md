@@ -1,4 +1,4 @@
-<img width="400" height="100" alt="setvox" src="setvox_logo_must-txt crop.png" />
+<img width="400" height="100" alt="setvox" src="setvox_logo_must-txt_crop.png" />
 
 **Building the future of film set communication.**
 
